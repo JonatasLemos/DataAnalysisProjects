@@ -13,3 +13,5 @@
 - Most isolated cities in Brazil
 - Population on each capital's influence zone
 - Data visualization
+
+### Autor: Jônatas Oliveira Lemos
