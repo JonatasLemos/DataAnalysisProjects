@@ -1,4 +1,4 @@
-## PT:Análise de altitude para o estado de Minas Gerais 
+## PT: Análise de altitude para o estado de Minas Gerais 
 - Correlação entre altitude e outras variáveis e.g.(IDH). 
 - Intervalos de Altitude
 - Bar charts e Scatter plots
