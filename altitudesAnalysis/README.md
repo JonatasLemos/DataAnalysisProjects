@@ -6,4 +6,4 @@
 ## EN: Municipal altitude analaysis for the state of Minas Gerais 
 - Correlation between altitude and other variables e.g. (HDI).
 - Intervals of Altitude
-- Bar charts e Scatter plots
+- Bar charts and Scatter plots
