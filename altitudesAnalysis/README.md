@@ -7,3 +7,5 @@
 - Correlation between altitude and other variables e.g. (HDI).
 - Intervals of Altitude
 - Bar charts and Scatter plots
+
+### Autor: Jônatas Oliveira Lemos
