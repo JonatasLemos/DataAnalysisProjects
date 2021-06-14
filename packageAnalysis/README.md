@@ -7,3 +7,5 @@
 - Analysis of Analytics data obtained from Homebrew package manager (JSON format)
 
 #### https://formulae.brew.sh/
+
+### Autor: Jônatas Oliveira Lemos
