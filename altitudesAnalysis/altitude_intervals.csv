@@ -1,0 +1,848 @@
+ALTITUDE,NOME DO MUNICÍPIO,MEAN,MIN,MAX,POPULAÇÃO ESTIMADA,CATEGORIA CIDADE
+0-300m,Serra dos Aimorés,195.0,81,297,8767.0,pequena
+0-300m,Pirapetinga,202.0,89,348,10818.0,pequena
+0-300m,Salto da Divisa,217.0,116,809,7107.0,pequena
+0-300m,Alpercata,219.0,165,299,7478.0,pequena
+0-300m,Tumiritinga,230.0,126,470,6669.0,pequena
+0-300m,Nanuque,232.0,89,561,41829.0,pequena
+0-300m,Goiabeira,233.0,157,470,3279.0,pequena
+0-300m,Palma,234.0,112,681,6746.0,pequena
+0-300m,Recreio,235.0,153,583,10667.0,pequena
+0-300m,Itueta,236.0,85,725,6087.0,pequena
+0-300m,Patrocínio do Muriaé,239.0,183,353,5617.0,pequena
+0-300m,Periquito,256.0,189,375,7103.0,pequena
+0-300m,Naque,257.0,195,339,6824.0,pequena
+0-300m,Resplendor,260.0,88,1021,17675.0,pequena
+0-300m,Fernandes Tourinho,261.0,186,443,3304.0,pequena
+0-300m,Mathias Lobato,264.0,187,569,3373.0,pequena
+0-300m,Galiléia,264.0,125,823,7061.0,pequena
+0-300m,Estrela Dalva,267.0,113,508,2471.0,pequena
+0-300m,Laranjal,273.0,139,643,6799.0,pequena
+0-300m,Capitão Andrade,275.0,179,572,5317.0,pequena
+0-300m,Volta Grande,279.0,139,439,5288.0,pequena
+0-300m,Carlos Chagas,284.0,121,585,19971.0,pequena
+0-300m,Sobrália,286.0,192,602,5842.0,pequena
+0-300m,Marilac,287.0,214,497,4275.0,pequena
+0-300m,Engenheiro Caldas,288.0,195,536,10962.0,pequena
+0-300m,Frei Inocêncio,291.0,173,741,9487.0,pequena
+0-300m,Aimorés,294.0,63,968,25694.0,pequena
+0-300m,Governador Valadares,299.0,139,914,278363.0,grande
+300-600m,São João do Oriente,304.0,217,601,7888.0,pequena
+300-600m,Cataguases,306.0,161,930,74171.0,média
+300-600m,Umburatiba,307.0,201,475,2727.0,pequena
+300-600m,Santana de Cataguases,309.0,219,617,3836.0,pequena
+300-600m,Jampruca,309.0,199,548,5361.0,pequena
+300-600m,Cuparaque,310.0,162,774,4947.0,pequena
+300-600m,Belo Oriente,310.0,197,752,25619.0,pequena
+300-600m,Ipaba,312.0,217,664,18068.0,pequena
+300-600m,Pavão,315.0,188,557,8739.0,pequena
+300-600m,Pocrane,319.0,169,940,8940.0,pequena
+300-600m,Leopoldina,320.0,156,634,53145.0,média
+300-600m,Machacalis,323.0,237,456,7219.0,pequena
+300-600m,Barão de Monte Alto,323.0,198,616,5706.0,pequena
+300-600m,Bugre,333.0,202,679,4134.0,pequena
+300-600m,Jordânia,339.0,166,877,10826.0,pequena
+300-600m,São Pedro dos Ferros,340.0,263,731,8284.0,pequena
+300-600m,Córrego Novo,345.0,254,781,3032.0,pequena
+300-600m,Jacinto,346.0,149,765,12537.0,pequena
+300-600m,Itanhomi,348.0,190,703,12340.0,pequena
+300-600m,São José do Goiabal,352.0,263,709,5673.0,pequena
+300-600m,Timóteo,355.0,231,692,87542.0,média
+300-600m,Campanário,357.0,225,658,3733.0,pequena
+300-600m,Ataléia,362.0,178,991,14039.0,pequena
+300-600m,Além Paraíba,364.0,151,890,35720.0,pequena
+300-600m,Crisólita,365.0,222,817,6525.0,pequena
+300-600m,Taparuba,365.0,197,711,3203.0,pequena
+300-600m,Divino das Laranjeiras,370.0,236,728,5082.0,pequena
+300-600m,Iapu,371.0,192,720,10870.0,pequena
+300-600m,Bertópolis,372.0,233,763,4664.0,pequena
+300-600m,São João do Manteninha,374.0,207,643,5650.0,pequena
+300-600m,São Geraldo do Baixio,378.0,198,761,3834.0,pequena
+300-600m,Central de Minas,379.0,232,627,7072.0,pequena
+300-600m,Rio Casca,383.0,271,683,14247.0,pequena
+300-600m,Chiador,386.0,244,900,2807.0,pequena
+300-600m,Marliéria,388.0,251,921,4127.0,pequena
+300-600m,Pescador,391.0,299,536,4293.0,pequena
+300-600m,Mantena,392.0,192,898,28061.0,pequena
+300-600m,Carneirinho,392.0,308,494,9985.0,pequena
+300-600m,Santana do Paraíso,396.0,222,1019,31604.0,pequena
+300-600m,Rodeiro,400.0,275,695,7653.0,pequena
+300-600m,Tarumirim,402.0,208,1024,14672.0,pequena
+300-600m,Mendes Pimentel,404.0,242,781,6549.0,pequena
+300-600m,Piraúba,404.0,317,702,11101.0,pequena
+300-600m,Antônio Prado de Minas,405.0,239,667,1677.0,pequena
+300-600m,Dionísio,405.0,261,839,8463.0,pequena
+300-600m,São José do Divino,407.0,258,1012,3944.0,pequena
+300-600m,Visconde do Rio Branco,411.0,319,850,41182.0,pequena
+300-600m,Guidoval,413.0,284,998,7327.0,pequena
+300-600m,Limeira do Oeste,420.0,319,512,7383.0,pequena
+300-600m,Nova Módica,420.0,290,727,3792.0,pequena
+300-600m,Tocantins,423.0,319,804,16637.0,pequena
+300-600m,Conselheiro Pena,427.0,117,1395,23141.0,pequena
+300-600m,São José da Safira,427.0,231,959,4274.0,pequena
+300-600m,São Geraldo da Piedade,428.0,222,910,4289.0,pequena
+300-600m,Águas Formosas,433.0,256,848,19307.0,pequena
+300-600m,Iturama,436.0,325,527,37700.0,pequena
+300-600m,Muriaé,439.0,197,1417,107263.0,grande
+300-600m,Dom Cavati,439.0,287,618,5274.0,pequena
+300-600m,Nacip Raydan,444.0,241,769,3266.0,pequena
+300-600m,São Francisco de Sales,445.0,376,547,6150.0,pequena
+300-600m,Ipiaçu,446.0,397,578,4269.0,pequena
+300-600m,Teófilo Otoni,446.0,224,947,141046.0,grande
+300-600m,Ipanema,448.0,229,818,19464.0,pequena
+300-600m,Bandeira,449.0,227,810,5019.0,pequena
+300-600m,Rochedo de Minas,450.0,349,778,2263.0,pequena
+300-600m,Itamarati de Minas,450.0,196,962,4318.0,pequena
+300-600m,União de Minas,451.0,375,533,4474.0,pequena
+300-600m,Vargem Alegre,457.0,261,719,6634.0,pequena
+300-600m,Bom Jesus do Galho,457.0,233,842,15542.0,pequena
+300-600m,Santa Rita do Itueto,458.0,164,959,5739.0,pequena
+300-600m,Santa Vitória,458.0,332,678,19389.0,pequena
+300-600m,Rubim,458.0,199,908,10330.0,pequena
+300-600m,Rio Novo,459.0,399,640,9050.0,pequena
+300-600m,Santa Cruz do Escalvado,459.0,289,615,5003.0,pequena
+300-600m,Franciscópolis,459.0,277,838,5745.0,pequena
+300-600m,Piedade de Ponte Nova,463.0,370,644,4203.0,pequena
+300-600m,Guarani,465.0,316,1065,9014.0,pequena
+300-600m,Fronteira,465.0,399,516,16399.0,pequena
+300-600m,Itambacuri,466.0,230,851,23585.0,pequena
+300-600m,Matias Cardoso,467.0,441,534,10822.0,pequena
+300-600m,Astolfo Dutra,467.0,255,1237,13937.0,pequena
+300-600m,Conceição de Ipanema,468.0,262,998,4627.0,pequena
+300-600m,Urucânia,470.0,381,616,10585.0,pequena
+300-600m,Francisco Badaró,475.0,312,795,10550.0,pequena
+300-600m,Mutum,476.0,201,1204,27494.0,pequena
+300-600m,Santa Helena de Minas,477.0,281,897,6362.0,pequena
+300-600m,Argirita,478.0,241,701,2890.0,pequena
+300-600m,Cachoeira Dourada,479.0,406,592,2661.0,pequena
+300-600m,Guiricema,483.0,322,990,8773.0,pequena
+300-600m,Planura,486.0,443,550,11509.0,pequena
+300-600m,Jaíba,489.0,446,751,37054.0,pequena
+300-600m,Ubá,489.0,302,839,111012.0,grande
+300-600m,Frei Gaspar,489.0,273,736,6028.0,pequena
+300-600m,Tombos,489.0,218,1033,9033.0,pequena
+300-600m,Almenara,492.0,167,956,41296.0,pequena
+300-600m,São João Nepomuceno,495.0,316,872,26336.0,pequena
+300-600m,Santa Maria do Suaçuí,497.0,243,910,14869.0,pequena
+300-600m,Itapagipe,498.0,372,671,14784.0,pequena
+300-600m,Raul Soares,498.0,258,942,24394.0,pequena
+300-600m,Simão Pereira,500.0,327,722,2640.0,pequena
+300-600m,Juvenília,501.0,437,748,5861.0,pequena
+300-600m,Catuti,502.0,469,560,5174.0,pequena
+300-600m,Rio Doce,502.0,329,771,2600.0,pequena
+300-600m,Açucena,503.0,197,964,10140.0,pequena
+300-600m,Fronteira dos Vales,503.0,299,957,4754.0,pequena
+300-600m,Virgolândia,504.0,282,842,5664.0,pequena
+300-600m,Santana do Deserto,505.0,309,857,4016.0,pequena
+300-600m,José Raydan,506.0,315,672,4793.0,pequena
+300-600m,Ipatinga,507.0,236,964,257345.0,grande
+300-600m,Goianá,508.0,402,860,3903.0,pequena
+300-600m,Itaobim,510.0,242,875,21564.0,pequena
+300-600m,Sem-Peixe,511.0,283,1095,2814.0,pequena
+300-600m,Itabirinha,513.0,279,1106,11367.0,pequena
+300-600m,Frutal,514.0,383,687,57795.0,média
+300-600m,Santa Maria do Salto,516.0,162,928,5393.0,pequena
+300-600m,Manga,517.0,438,725,19622.0,pequena
+300-600m,Araporã,517.0,438,696,6657.0,pequena
+300-600m,Pai Pedro,517.0,461,819,6162.0,pequena
+300-600m,Eugenópolis,518.0,187,1173,11169.0,pequena
+300-600m,Joanésia,519.0,261,977,5143.0,pequena
+300-600m,Pirajuba,519.0,462,600,5534.0,pequena
+300-600m,Verdelândia,520.0,472,783,9056.0,pequena
+300-600m,Água Boa,521.0,261,1018,14686.0,pequena
+300-600m,Campina Verde,522.0,384,727,20022.0,pequena
+300-600m,Inhapim,522.0,259,1053,24835.0,pequena
+300-600m,Novo Oriente de Minas,523.0,269,988,10807.0,pequena
+300-600m,Rio Pomba,526.0,419,862,17939.0,pequena
+300-600m,São José do Mantimento,528.0,360,816,2755.0,pequena
+300-600m,São Romão,528.0,464,748,11553.0,pequena
+300-600m,Santo Antônio do Grama,529.0,371,776,4103.0,pequena
+300-600m,Araçuaí,529.0,271,1004,37270.0,pequena
+300-600m,Ponto Chique,530.0,468,706,4212.0,pequena
+300-600m,Descoberto,532.0,307,1106,5010.0,pequena
+300-600m,Gurinhatã,533.0,404,709,6047.0,pequena
+300-600m,Virgem da Lapa,534.0,312,799,14030.0,pequena
+300-600m,Capinópolis,536.0,402,670,16112.0,pequena
+300-600m,Pintópolis,539.0,460,655,7540.0,pequena
+300-600m,Ponte Nova,539.0,387,762,60005.0,média
+300-600m,Nova Porteirinha,539.0,501,706,7636.0,pequena
+300-600m,Mesquita,542.0,238,1062,5993.0,pequena
+300-600m,Pirapora,545.0,480,732,56229.0,média
+300-600m,Jaguaraçu,545.0,249,926,3136.0,pequena
+300-600m,Pedras de Maria da Cruz,545.0,448,829,11193.0,pequena
+300-600m,Entre Folhas,548.0,368,722,5385.0,pequena
+300-600m,Conceição das Alagoas,550.0,458,704,26018.0,pequena
+300-600m,Mar de Espanha,551.0,321,885,12572.0,pequena
+300-600m,São Francisco,557.0,457,784,56423.0,média
+300-600m,Tabuleiro,559.0,459,844,4021.0,pequena
+300-600m,Janaúba,561.0,474,873,70886.0,média
+300-600m,Água Comprida,564.0,491,688,2064.0,pequena
+300-600m,Oratórios,564.0,474,708,4686.0,pequena
+300-600m,Guarará,565.0,501,633,3963.0,pequena
+300-600m,Itinga,565.0,252,1093,15059.0,pequena
+300-600m,Ituiutaba,566.0,401,737,103333.0,grande
+300-600m,Chalé,568.0,285,1110,5817.0,pequena
+300-600m,Ouro Verde de Minas,569.0,412,973,6128.0,pequena
+300-600m,Barra Longa,571.0,403,773,5799.0,pequena
+300-600m,Icaraí de Minas,571.0,463,749,11633.0,pequena
+300-600m,Berilo,572.0,356,881,12431.0,pequena
+300-600m,Capitão Enéas,573.0,488,883,15074.0,pequena
+300-600m,Piau,575.0,416,896,2868.0,pequena
+300-600m,Coronel Murta,576.0,279,922,9400.0,pequena
+300-600m,Gameleiras,576.0,449,1132,5255.0,pequena
+300-600m,Itacarambi,577.0,445,822,18383.0,pequena
+300-600m,Lagoa Grande,577.0,518,838,9294.0,pequena
+300-600m,Urucuia,578.0,473,690,15556.0,pequena
+300-600m,Palmópolis,582.0,328,887,6405.0,pequena
+300-600m,São Geraldo,582.0,365,841,11559.0,pequena
+300-600m,Delta,583.0,496,705,9499.0,pequena
+300-600m,Miraí,588.0,256,944,14753.0,pequena
+300-600m,Jenipapo de Minas,589.0,364,967,7580.0,pequena
+300-600m,Belmiro Braga,589.0,378,964,3501.0,pequena
+300-600m,São Pedro do Suaçuí,589.0,370,767,5552.0,pequena
+300-600m,Santo Antônio do Aventureiro,592.0,314,819,3659.0,pequena
+300-600m,Ubaí,593.0,464,727,12397.0,pequena
+300-600m,Joaíma,594.0,260,1019,15562.0,pequena
+300-600m,Várzea da Palma,597.0,478,1056,38534.0,pequena
+300-600m,Dom Bosco,597.0,500,903,3844.0,pequena
+300-600m,Centralina,598.0,439,784,10604.0,pequena
+300-600m,Ibiaí,598.0,474,771,8312.0,pequena
+300-600m,Maripá de Minas,598.0,537,744,2950.0,pequena
+600-850m,Alvarenga,602.0,207,1220,4292.0,pequena
+600-850m,Brasilândia de Minas,602.0,483,872,15727.0,pequena
+600-850m,Caratinga,603.0,218,1217,90782.0,média
+600-850m,Jequitinhonha,604.0,195,1099,25365.0,pequena
+600-850m,Comendador Gomes,605.0,497,746,3116.0,pequena
+600-850m,Acaiaca,609.0,450,744,4056.0,pequena
+600-850m,Santo Antônio do Rio Abaixo,610.0,503,838,1816.0,pequena
+600-850m,Rio do Prado,612.0,344,930,5316.0,pequena
+600-850m,Canápolis,612.0,435,773,12005.0,pequena
+600-850m,Matias Barbosa,613.0,481,808,14285.0,pequena
+600-850m,Lagoa dos Patos,613.0,478,786,4272.0,pequena
+600-850m,Santa Fé de Minas,613.0,470,856,4009.0,pequena
+600-850m,São Félix de Minas,616.0,356,820,3462.0,pequena
+600-850m,Montalvânia,618.0,461,807,15779.0,pequena
+600-850m,Pequeri,619.0,478,831,3323.0,pequena
+600-850m,Bicas,620.0,371,816,14413.0,pequena
+600-850m,Natalândia,621.0,518,951,3379.0,pequena
+600-850m,Santo Hipólito,621.0,522,1043,3246.0,pequena
+600-850m,Campo Azul,622.0,496,741,3843.0,pequena
+600-850m,Braúnas,623.0,277,988,5045.0,pequena
+600-850m,Mata Verde,624.0,328,931,8425.0,pequena
+600-850m,Jequeri,624.0,394,1015,12946.0,pequena
+600-850m,Inimutaba,625.0,545,783,7397.0,pequena
+600-850m,Coroaci,625.0,235,918,10393.0,pequena
+600-850m,São Sebastião do Maranhão,627.0,450,962,10620.0,pequena
+600-850m,Vieiras,628.0,384,1151,3765.0,pequena
+600-850m,Poté,628.0,409,933,16502.0,pequena
+600-850m,São Sebastião do Rio Preto,631.0,481,893,1601.0,pequena
+600-850m,Arinos,631.0,492,933,18221.0,pequena
+600-850m,Morada Nova de Minas,631.0,556,937,8764.0,pequena
+600-850m,Santo Antônio do Jacinto,632.0,321,976,12008.0,pequena
+600-850m,Faria Lemos,636.0,343,1243,3396.0,pequena
+600-850m,Senador Cortes,638.0,549,813,2047.0,pequena
+600-850m,Riachinho,639.0,480,918,8274.0,pequena
+600-850m,Abaeté,642.0,564,904,23535.0,pequena
+600-850m,Presidente Juscelino,643.0,538,831,3875.0,pequena
+600-850m,Januária,644.0,447,855,68247.0,média
+600-850m,Paineiras,644.0,564,875,4677.0,pequena
+600-850m,Campo Florido,646.0,503,802,7675.0,pequena
+600-850m,Santa Efigênia de Minas,647.0,295,899,4622.0,pequena
+600-850m,Chapada do Norte,648.0,412,1038,15657.0,pequena
+600-850m,São João da Ponte,649.0,488,903,25906.0,pequena
+600-850m,Rubelita,649.0,381,948,7093.0,pequena
+600-850m,Catuji,650.0,309,1094,6683.0,pequena
+600-850m,Guaraciaba,651.0,507,775,10532.0,pequena
+600-850m,Pedra do Anta,652.0,515,829,3339.0,pequena
+600-850m,Felixlândia,653.0,562,925,15078.0,pequena
+600-850m,Nova Belém,654.0,397,1122,3559.0,pequena
+600-850m,Varzelândia,654.0,500,847,19702.0,pequena
+600-850m,Amparo do Serra,655.0,536,819,4971.0,pequena
+600-850m,Porteirinha,655.0,475,1411,38720.0,pequena
+600-850m,Prata,655.0,504,849,27469.0,pequena
+600-850m,Buritizeiro,657.0,469,909,28163.0,pequena
+600-850m,Comercinho,660.0,306,928,7835.0,pequena
+600-850m,São Sebastião do Anta,661.0,342,947,6286.0,pequena
+600-850m,Paiva,661.0,567,793,1583.0,pequena
+600-850m,São José do Jacuri,662.0,530,879,6671.0,pequena
+600-850m,Santana do Manhuaçu,663.0,495,1065,8844.0,pequena
+600-850m,São João das Missões,663.0,458,819,12652.0,pequena
+600-850m,Jequitaí,664.0,487,1009,7975.0,pequena
+600-850m,Dom Silvério,665.0,454,1089,5348.0,pequena
+600-850m,Martinho Campos,667.0,600,789,13314.0,pequena
+600-850m,Espinosa,667.0,451,1397,32151.0,pequena
+600-850m,Dores do Indaiá,668.0,612,754,13983.0,pequena
+600-850m,Coronel Fabriciano,668.0,239,1089,109363.0,grande
+600-850m,Abre Campo,672.0,391,1068,13719.0,pequena
+600-850m,Imbé de Minas,674.0,465,899,6823.0,pequena
+600-850m,Pompéu,675.0,564,906,31178.0,pequena
+600-850m,Morro da Garça,675.0,591,876,2630.0,pequena
+600-850m,João Pinheiro,677.0,486,986,48179.0,pequena
+600-850m,Luz,678.0,618,1003,18290.0,pequena
+600-850m,Corinto,679.0,508,997,24432.0,pequena
+600-850m,Silveirânia,679.0,492,865,2282.0,pequena
+600-850m,Dom Joaquim,679.0,565,870,4616.0,pequena
+600-850m,Vazante,679.0,521,1002,20652.0,pequena
+600-850m,Curvelo,680.0,530,996,78900.0,média
+600-850m,Monte Azul,680.0,465,1650,21990.0,pequena
+600-850m,Diogo de Vasconcelos,682.0,579,779,3923.0,pequena
+600-850m,Iguatama,682.0,633,828,8192.0,pequena
+600-850m,Coronel Pacheco,683.0,428,931,3110.0,pequena
+600-850m,Moema,683.0,622,897,7448.0,pequena
+600-850m,Malacacheta,684.0,330,1139,19191.0,pequena
+600-850m,Grupiara,684.0,616,825,1416.0,pequena
+600-850m,Medina,684.0,250,954,21459.0,pequena
+600-850m,Engenheiro Navarro,684.0,588,958,7362.0,pequena
+600-850m,Vermelho Novo,684.0,562,1065,4883.0,pequena
+600-850m,Durandé,685.0,472,933,7818.0,pequena
+600-850m,Mercês,685.0,508,925,10813.0,pequena
+600-850m,São João do Pacuí,688.0,566,786,4339.0,pequena
+600-850m,Salinas,690.0,423,1016,41301.0,pequena
+600-850m,Felisburgo,691.0,405,1038,7338.0,pequena
+600-850m,Biquinhas,693.0,578,1000,2640.0,pequena
+600-850m,Ladainha,693.0,411,1029,17976.0,pequena
+600-850m,Porto Firme,693.0,588,836,11107.0,pequena
+600-850m,Chapada Gaúcha,694.0,502,886,12495.0,pequena
+600-850m,Arceburgo,694.0,573,845,10373.0,pequena
+600-850m,Dores de Guanhães,694.0,386,980,5328.0,pequena
+600-850m,Cantagalo,697.0,588,949,4464.0,pequena
+600-850m,Ferros,697.0,376,1119,10611.0,pequena
+600-850m,Miravânia,699.0,553,825,4832.0,pequena
+600-850m,Jequitibá,699.0,611,1029,5313.0,pequena
+600-850m,Mato Verde,700.0,508,1428,12895.0,pequena
+600-850m,Paracatu,700.0,502,1010,91027.0,média
+600-850m,Japaraíba,700.0,631,835,4241.0,pequena
+600-850m,Lagoa da Prata,703.0,626,905,50197.0,média
+600-850m,Doresópolis,706.0,650,778,1519.0,pequena
+600-850m,Bom Despacho,706.0,608,916,49236.0,pequena
+600-850m,Caputira,707.0,588,1072,9392.0,pequena
+600-850m,Presidente Bernardes,707.0,601,855,5594.0,pequena
+600-850m,Teixeiras,707.0,621,813,11793.0,pequena
+600-850m,Ubaporanga,708.0,516,987,12558.0,pequena
+600-850m,Francisco Sá,709.0,526,1176,26217.0,pequena
+600-850m,Quartel Geral,711.0,616,929,3516.0,pequena
+600-850m,Conquista,711.0,501,1031,6895.0,pequena
+600-850m,Lajinha,712.0,467,1159,20262.0,pequena
+600-850m,Cordisburgo,712.0,586,1016,8998.0,pequena
+600-850m,Reduto,712.0,550,1020,7023.0,pequena
+600-850m,Funilândia,713.0,640,821,4196.0,pequena
+600-850m,Conceição do Pará,714.0,636,823,5460.0,pequena
+600-850m,Tupaciguara,715.0,502,923,25363.0,pequena
+600-850m,Papagaios,716.0,645,842,15274.0,pequena
+600-850m,Bonito de Minas,716.0,508,833,10669.0,pequena
+600-850m,Passabém,717.0,572,1052,1753.0,pequena
+600-850m,Viçosa,718.0,619,819,77318.0,média
+600-850m,Divinésia,718.0,407,842,3437.0,pequena
+600-850m,Douradoquara,718.0,633,871,1920.0,pequena
+600-850m,Canaã,718.0,552,885,4713.0,pequena
+600-850m,Leandro Ferreira,719.0,604,853,3298.0,pequena
+600-850m,Nova Era,720.0,534,1133,17998.0,pequena
+600-850m,Aracitaba,721.0,544,937,2112.0,pequena
+600-850m,São Domingos do Prata,722.0,276,1079,17798.0,pequena
+600-850m,José Gonçalves de Minas,723.0,429,976,4643.0,pequena
+600-850m,Cristália,723.0,444,1158,6010.0,pequena
+600-850m,Luislândia,723.0,617,854,6710.0,pequena
+600-850m,Pitangui,724.0,604,1032,27273.0,pequena
+600-850m,Pedra Azul,726.0,423,1039,24683.0,pequena
+600-850m,Glaucilândia,726.0,625,939,3130.0,pequena
+600-850m,Peçanha,726.0,314,931,17836.0,pequena
+600-850m,Lagamar,727.0,530,1007,7799.0,pequena
+600-850m,Estrela do Indaiá,727.0,635,989,3596.0,pequena
+600-850m,Araçaí,728.0,652,982,2352.0,pequena
+600-850m,São Francisco do Glória,730.0,465,1177,5145.0,pequena
+600-850m,Monte Alegre de Minas,731.0,482,918,20856.0,pequena
+600-850m,Fortuna de Minas,732.0,669,941,2893.0,pequena
+600-850m,São Miguel do Anta,733.0,616,910,7019.0,pequena
+600-850m,Três Marias,733.0,506,974,31028.0,pequena
+600-850m,Alvorada de Minas,734.0,604,1208,3666.0,pequena
+600-850m,São Gonçalo do Pará,735.0,660,840,11654.0,pequena
+600-850m,Veríssimo,735.0,535,889,3826.0,pequena
+600-850m,Senador Firmino,736.0,628,821,7700.0,pequena
+600-850m,Brás Pires,736.0,639,869,4604.0,pequena
+600-850m,São Gonçalo do Abaeté,736.0,513,981,6780.0,pequena
+600-850m,Caraí,737.0,329,1023,23571.0,pequena
+600-850m,Bambuí,738.0,642,867,23850.0,pequena
+600-850m,Alvinópolis,739.0,559,1078,15619.0,pequena
+600-850m,Cônego Marinho,740.0,475,836,7564.0,pequena
+600-850m,Serra da Saudade,741.0,645,933,818.0,pequena
+600-850m,Josenópolis,744.0,345,1056,4830.0,pequena
+600-850m,Cachoeira da Prata,744.0,676,846,3721.0,pequena
+600-850m,São João Evangelista,745.0,529,939,16057.0,pequena
+600-850m,Leme do Prado,745.0,466,970,4983.0,pequena
+600-850m,Matipó,745.0,592,1028,18713.0,pequena
+600-850m,Turmalina,746.0,474,1008,19454.0,pequena
+600-850m,Nova Serrana,747.0,652,868,89859.0,média
+600-850m,Uruana de Minas,747.0,505,933,3336.0,pequena
+600-850m,Japonvar,748.0,505,902,8643.0,pequena
+600-850m,Coluna,748.0,566,946,9178.0,pequena
+600-850m,Cascalho Rico,749.0,629,1001,3037.0,pequena
+600-850m,Cipotânea,749.0,667,880,6832.0,pequena
+600-850m,Gonzaga,750.0,284,961,6188.0,pequena
+600-850m,Arcos,751.0,632,984,39249.0,pequena
+600-850m,Claro dos Poções,751.0,568,1004,7862.0,pequena
+600-850m,Augusto de Lima,752.0,514,1301,5041.0,pequena
+600-850m,Lagoa Santa,753.0,662,879,59770.0,média
+600-850m,Paraopeba,754.0,653,1018,24110.0,pequena
+600-850m,Rio Piracicaba,755.0,638,1230,14602.0,pequena
+600-850m,Piranga,755.0,616,1173,17864.0,pequena
+600-850m,Frei Lagonegro,756.0,634,971,3487.0,pequena
+600-850m,Inhaúma,756.0,672,958,6158.0,pequena
+600-850m,Carangola,756.0,400,1285,33463.0,pequena
+600-850m,Carmésia,757.0,540,992,2600.0,pequena
+600-850m,Divisópolis,757.0,333,1014,10209.0,pequena
+600-850m,Cajuri,757.0,676,850,4121.0,pequena
+600-850m,Ponto dos Volantes,759.0,383,1003,12016.0,pequena
+600-850m,Araguari,759.0,501,1011,116267.0,grande
+600-850m,Maravilhas,759.0,663,1027,7744.0,pequena
+600-850m,Brasília de Minas,760.0,602,908,32564.0,pequena
+600-850m,São Domingos das Dores,761.0,304,899,5661.0,pequena
+600-850m,Bela Vista de Minas,761.0,579,998,10381.0,pequena
+600-850m,Paula Cândido,761.0,665,857,9654.0,pequena
+600-850m,Unaí,761.0,501,1009,82887.0,média
+600-850m,São Gonçalo do Rio Abaixo,762.0,606,1050,10588.0,pequena
+600-850m,Santa Maria de Itabira,764.0,492,1121,10964.0,pequena
+600-850m,Paulistas,764.0,604,899,5000.0,pequena
+600-850m,Juiz de Fora,764.0,496,974,555284.0,grande
+600-850m,Senhora do Porto,765.0,591,1032,3599.0,pequena
+600-850m,Santa Luzia,765.0,678,1057,216254.0,grande
+600-850m,Miradouro,766.0,378,1687,10759.0,pequena
+600-850m,Confins,768.0,685,838,6478.0,pequena
+600-850m,Lamim,769.0,680,902,3511.0,pequena
+600-850m,Pains,771.0,659,898,8351.0,pequena
+600-850m,Coimbra,771.0,714,874,7480.0,pequena
+600-850m,Matozinhos,772.0,642,985,36719.0,pequena
+600-850m,Veredinha,772.0,551,1014,5773.0,pequena
+600-850m,Patis,773.0,633,902,5914.0,pequena
+600-850m,Lontra,773.0,564,901,8938.0,pequena
+600-850m,Prudente de Morais,773.0,687,906,10388.0,pequena
+600-850m,Abadia dos Dourados,773.0,639,988,7015.0,pequena
+600-850m,Fruta de Leite,773.0,472,970,5809.0,pequena
+600-850m,Caetanópolis,773.0,673,987,11170.0,pequena
+600-850m,Bom Jesus do Amparo,773.0,661,1280,5923.0,pequena
+600-850m,Coração de Jesus,774.0,498,963,26974.0,pequena
+600-850m,Antônio Dias,774.0,255,1171,9685.0,pequena
+600-850m,Rio Espera,775.0,692,847,5929.0,pequena
+600-850m,Baldim,775.0,626,1071,8071.0,pequena
+600-850m,Guarda-Mor,776.0,536,1011,6738.0,pequena
+600-850m,São José da Varginha,779.0,681,1017,4702.0,pequena
+600-850m,Ibiracatu,780.0,514,888,6206.0,pequena
+600-850m,Itaipé,780.0,472,1115,12572.0,pequena
+600-850m,Sardoá,780.0,626,920,6083.0,pequena
+600-850m,Montes Claros,780.0,512,1068,394350.0,grande
+600-850m,São José da Lapa,780.0,697,893,22257.0,pequena
+600-850m,Alto Rio Doce,783.0,695,931,11896.0,pequena
+600-850m,Igaratinga,783.0,699,1000,10286.0,pequena
+600-850m,Divinópolis,783.0,668,1035,230848.0,grande
+600-850m,Rosário da Limeira,784.0,542,1238,4525.0,pequena
+600-850m,Perdigão,785.0,703,932,10416.0,pequena
+600-850m,Cássia,785.0,665,1267,18014.0,pequena
+600-850m,Itaú de Minas,785.0,678,996,15897.0,pequena
+600-850m,Capela Nova,786.0,730,845,4825.0,pequena
+600-850m,Mariana,787.0,466,1982,58802.0,média
+600-850m,Lassance,787.0,493,1274,6663.0,pequena
+600-850m,Dores do Turvo,787.0,689,921,4474.0,pequena
+600-850m,Vespasiano,790.0,695,884,118557.0,grande
+600-850m,Pequi,790.0,673,1117,4342.0,pequena
+600-850m,Pratápolis,790.0,692,994,8930.0,pequena
+600-850m,Sete Lagoas,792.0,656,1023,232107.0,grande
+600-850m,Minas Novas,792.0,456,1165,31915.0,pequena
+600-850m,Materlândia,792.0,651,942,4645.0,pequena
+600-850m,Novorizonte,794.0,531,1008,5255.0,pequena
+600-850m,Martins Soares,795.0,552,1135,7968.0,pequena
+600-850m,Carbonita,796.0,570,967,9507.0,pequena
+600-850m,São José da Barra,796.0,674,1066,7270.0,pequena
+600-850m,Chácara,797.0,686,898,3042.0,pequena
+600-850m,Padre Carvalho,798.0,568,1067,6250.0,pequena
+600-850m,Araújos,798.0,700,971,8768.0,pequena
+600-850m,Santa Bárbara do Monte Verde,798.0,417,1433,3037.0,pequena
+600-850m,Pedro Teixeira,798.0,702,879,1841.0,pequena
+600-850m,Joaquim Felício,799.0,597,1273,4607.0,pequena
+600-850m,Monte Formoso,800.0,615,999,4897.0,pequena
+600-850m,Mamonas,801.0,581,1141,6591.0,pequena
+600-850m,Senhora de Oliveira,802.0,672,939,5879.0,pequena
+600-850m,Cedro do Abaeté,802.0,632,988,1218.0,pequena
+600-850m,Pedro Leopoldo,805.0,647,975,62951.0,média
+600-850m,Uberlândia,808.0,530,978,662362.0,grande
+600-850m,Santana de Pirapama,809.0,570,1440,8032.0,pequena
+600-850m,Taiobeiras,810.0,549,1004,33315.0,pequena
+600-850m,Virginópolis,811.0,598,987,10810.0,pequena
+600-850m,Passos,811.0,662,1179,113122.0,grande
+600-850m,Serranópolis de Minas,811.0,545,1366,4712.0,pequena
+600-850m,Buritis,812.0,521,1070,24351.0,pequena
+600-850m,Sabinópolis,812.0,639,961,15987.0,pequena
+600-850m,Fama,812.0,765,872,2423.0,pequena
+600-850m,Uberaba,812.0,483,1036,322126.0,grande
+600-850m,Esmeraldas,813.0,688,1049,67208.0,média
+600-850m,Santa Rita de Minas,813.0,645,1043,7042.0,pequena
+600-850m,Bonfinópolis de Minas,814.0,543,955,5831.0,pequena
+600-850m,Cristais,814.0,753,949,12317.0,pequena
+600-850m,Campo do Meio,815.0,760,1015,11856.0,pequena
+600-850m,Piumhi,815.0,690,1263,34075.0,pequena
+600-850m,Alfenas,816.0,754,915,78712.0,média
+600-850m,São Sebastião do Oeste,816.0,720,967,6430.0,pequena
+600-850m,Caiana,817.0,711,1030,5354.0,pequena
+600-850m,Juatuba,817.0,724,1172,25087.0,pequena
+600-850m,Cachoeira de Pajeú,818.0,655,1029,9410.0,pequena
+600-850m,Guanhães,818.0,387,1151,33562.0,pequena
+600-850m,Manhumirim,820.0,608,1408,22577.0,pequena
+600-850m,Mirabela,820.0,652,953,13643.0,pequena
+600-850m,Botumirim,821.0,472,1486,6574.0,pequena
+600-850m,São João da Lagoa,821.0,510,967,4902.0,pequena
+600-850m,Guaraciama,821.0,690,1038,4962.0,pequena
+600-850m,Betim,822.0,717,1064,417307.0,grande
+600-850m,Padre Paraíso,823.0,625,992,19971.0,pequena
+600-850m,Águas Vermelhas,823.0,663,1009,13447.0,pequena
+600-850m,Rio Vermelho,825.0,618,1573,13597.0,pequena
+600-850m,Florestal,825.0,700,1005,7209.0,pequena
+600-850m,Pará de Minas,825.0,674,1077,91158.0,média
+600-850m,Riacho dos Machados,826.0,576,1086,9658.0,pequena
+600-850m,Bocaiúva,826.0,596,1379,49600.0,pequena
+600-850m,Cana Verde,827.0,762,970,5737.0,pequena
+600-850m,Ewbank da Câmara,828.0,724,901,3927.0,pequena
+600-850m,Areado,830.0,762,1189,14740.0,pequena
+600-850m,Berizal,830.0,702,1354,4661.0,pequena
+600-850m,Divinolândia de Minas,831.0,690,950,7472.0,pequena
+600-850m,Itabira,831.0,578,1558,117634.0,grande
+600-850m,Carmo do Cajuru,832.0,701,1113,21735.0,pequena
+600-850m,Cabeceira Grande,832.0,594,986,6861.0,pequena
+600-850m,São Joaquim de Bicas,832.0,723,1240,29162.0,pequena
+600-850m,Presidente Olegário,833.0,541,1078,19469.0,pequena
+600-850m,Morro do Pilar,835.0,538,1485,3378.0,pequena
+600-850m,Córrego Danta,835.0,651,1176,3391.0,pequena
+600-850m,Ribeirão Vermelho,835.0,775,907,4026.0,pequena
+600-850m,Formoso,837.0,537,1030,9067.0,pequena
+600-850m,Santa Rita de Jacutinga,839.0,466,1426,5065.0,pequena
+600-850m,Aguanil,839.0,759,1003,4370.0,pequena
+600-850m,Santos Dumont,840.0,497,1200,47559.0,pequena
+600-850m,João Monlevade,842.0,616,1173,78583.0,média
+600-850m,Onça de Pitangui,842.0,651,1168,3179.0,pequena
+600-850m,Varjão de Minas,842.0,663,1025,6762.0,pequena
+600-850m,Santana dos Montes,842.0,697,1100,3897.0,pequena
+600-850m,Claraval,842.0,631,1149,4801.0,pequena
+600-850m,Santa Bárbara do Tugúrio,843.0,602,1216,4617.0,pequena
+600-850m,Paraguaçu,843.0,762,972,21384.0,pequena
+600-850m,Alterosa,844.0,762,1044,14434.0,pequena
+600-850m,Campos Gerais,844.0,751,1205,28879.0,pequena
+600-850m,Cláudio,845.0,719,1114,27827.0,pequena
+600-850m,Rio Preto,845.0,433,1568,5517.0,pequena
+600-850m,Santa Cruz de Salinas,846.0,584,1014,4383.0,pequena
+600-850m,Boa Esperança,847.0,759,1331,40287.0,pequena
+600-850m,Senador Modestino Gonçalves,847.0,661,1350,4484.0,pequena
+600-850m,Catas Altas da Noruega,847.0,690,1284,3638.0,pequena
+600-850m,Indaiabira,849.0,713,1096,7526.0,pequena
+600-850m,Novo Cruzeiro,850.0,484,1106,31803.0,pequena
+600-850m,Coqueiral,850.0,764,967,9461.0,pequena
+600-850m,Divisa Alegre,850.0,705,990,6478.0,pequena
+600-850m,Guaranésia,850.0,691,1183,19340.0,pequena
+850-1100m,Santo Antônio do Monte,852.0,624,1069,27752.0,pequena
+850-1100m,Carmo do Rio Claro,852.0,717,1260,21338.0,pequena
+850-1100m,Formiga,853.0,729,1127,68040.0,média
+850-1100m,Ribeirão das Neves,854.0,740,960,322659.0,grande
+850-1100m,Ninheira,854.0,667,1100,10301.0,pequena
+850-1100m,Itambé do Mato Dentro,854.0,582,1575,2242.0,pequena
+850-1100m,Simonésia,857.0,463,1534,19421.0,pequena
+850-1100m,Córrego Fundo,859.0,787,944,6207.0,pequena
+850-1100m,Igarapé,859.0,747,1246,39774.0,pequena
+850-1100m,Grão Mogol,860.0,352,1273,15805.0,pequena
+850-1100m,Divisa Nova,860.0,770,997,6031.0,pequena
+850-1100m,Campo Belo,862.0,762,1015,54076.0,média
+850-1100m,Santo Antônio do Itambé,862.0,685,1747,4093.0,pequena
+850-1100m,Elói Mendes,865.0,766,1025,27268.0,pequena
+850-1100m,Juramento,865.0,599,1249,4325.0,pequena
+850-1100m,Delfinópolis,866.0,630,1407,7143.0,pequena
+850-1100m,Divino,867.0,652,1469,20012.0,pequena
+850-1100m,Aricanduva,867.0,727,1016,5118.0,pequena
+850-1100m,Francisco Dumont,867.0,568,1263,5160.0,pequena
+850-1100m,Tiros,867.0,626,1132,6871.0,pequena
+850-1100m,Olhos-d'Água,868.0,619,1346,5808.0,pequena
+850-1100m,Monte Carmelo,868.0,640,1080,47937.0,pequena
+850-1100m,Taquaraçu de Minas,869.0,689,1522,4030.0,pequena
+850-1100m,Guapé,870.0,728,1311,14407.0,pequena
+850-1100m,Caranaíba,870.0,735,1128,3319.0,pequena
+850-1100m,Capim Branco,870.0,786,950,9537.0,pequena
+850-1100m,Monte Belo,874.0,774,1192,13444.0,pequena
+850-1100m,Nepomuceno,875.0,761,1040,26897.0,pequena
+850-1100m,Pedra Dourada,875.0,533,1277,2401.0,pequena
+850-1100m,Serrania,876.0,790,1175,7796.0,pequena
+850-1100m,Monte Sião,877.0,741,1155,23022.0,pequena
+850-1100m,Pouso Alegre,877.0,810,1204,143846.0,grande
+850-1100m,Careaçu,878.0,808,1109,6684.0,pequena
+850-1100m,Estrela do Sul,879.0,649,1015,7897.0,pequena
+850-1100m,Coromandel,879.0,692,1236,28456.0,pequena
+850-1100m,Santana do Jacaré,881.0,787,1061,4828.0,pequena
+850-1100m,Perdões,881.0,773,1078,21239.0,pequena
+850-1100m,Patos de Minas,883.0,699,1172,148762.0,grande
+850-1100m,Alpinópolis,883.0,677,1204,19630.0,pequena
+850-1100m,Ervália,883.0,711,1550,18868.0,pequena
+850-1100m,Manhuaçu,883.0,554,1449,86844.0,média
+850-1100m,Senhora dos Remédios,884.0,748,1245,10585.0,pequena
+850-1100m,Monjolos,884.0,530,1354,2352.0,pequena
+850-1100m,Mário Campos,885.0,727,1191,14624.0,pequena
+850-1100m,São João do Paraíso,886.0,688,1133,23526.0,pequena
+850-1100m,Santana da Vargem,886.0,809,1019,7349.0,pequena
+850-1100m,Serra Azul de Minas,886.0,704,1757,4363.0,pequena
+850-1100m,Carvalhópolis,886.0,824,1039,3544.0,pequena
+850-1100m,Ijaci,886.0,803,974,6348.0,pequena
+850-1100m,Conceição do Mato Dentro,888.0,472,1454,18198.0,pequena
+850-1100m,Itaverava,888.0,690,1295,5758.0,pequena
+850-1100m,São Sebastião da Bela Vista,889.0,810,1271,5348.0,pequena
+850-1100m,Cordislândia,889.0,799,1186,3573.0,pequena
+850-1100m,Capelinha,889.0,640,1154,37330.0,pequena
+850-1100m,Barão de Cocais,889.0,657,1357,31270.0,pequena
+850-1100m,Santa Margarida,889.0,736,1420,15982.0,pequena
+850-1100m,Piranguinho,889.0,823,1069,8505.0,pequena
+850-1100m,Sabará,890.0,699,1553,134382.0,grande
+850-1100m,Mateus Leme,890.0,770,1189,30155.0,pequena
+850-1100m,Pimenta,890.0,688,1272,8655.0,pequena
+850-1100m,Ibituruna,890.0,807,1088,3000.0,pequena
+850-1100m,Curral de Dentro,891.0,761,1336,7491.0,pequena
+850-1100m,Turvolândia,891.0,811,1052,4964.0,pequena
+850-1100m,São José do Alegre,891.0,831,1164,4197.0,pequena
+850-1100m,Piedade de Caratinga,893.0,788,1011,8008.0,pequena
+850-1100m,Itaúna,893.0,731,1156,91453.0,média
+850-1100m,Silvianópolis,895.0,811,1226,6283.0,pequena
+850-1100m,Lagoa Formosa,896.0,762,1100,18037.0,pequena
+850-1100m,São João Batista do Glória,896.0,664,1374,7341.0,pequena
+850-1100m,Três Pontas,896.0,767,1142,56649.0,média
+850-1100m,Jacutinga,897.0,692,1273,24930.0,pequena
+850-1100m,Belo Horizonte,898.0,699,1413,2502557.0,grande
+850-1100m,Rio Pardo de Minas,899.0,665,1445,30732.0,pequena
+850-1100m,Jaboticatubas,899.0,644,1605,19052.0,pequena
+850-1100m,Carmo da Mata,899.0,763,1100,11475.0,pequena
+850-1100m,Capetinga,900.0,739,1149,7185.0,pequena
+850-1100m,Itapecerica,900.0,739,1124,22109.0,pequena
+850-1100m,Contagem,901.0,834,993,648766.0,grande
+850-1100m,Bias Fortes,902.0,750,1578,3685.0,pequena
+850-1100m,Brumadinho,906.0,739,1497,37857.0,pequena
+850-1100m,Buenópolis,907.0,541,1366,10589.0,pequena
+850-1100m,Lavras,908.0,779,1189,100243.0,grande
+850-1100m,Santa Cruz de Minas,909.0,892,919,8429.0,pequena
+850-1100m,Indianópolis,909.0,645,1016,6693.0,pequena
+850-1100m,Itamarandiba,909.0,631,1582,34253.0,pequena
+850-1100m,Oliveira Fortes,910.0,650,1210,2182.0,pequena
+850-1100m,Monte Santo de Minas,912.0,591,1213,21915.0,pequena
+850-1100m,Iraí de Minas,912.0,795,1050,6886.0,pequena
+850-1100m,Carmo do Paranaíba,912.0,737,1134,30782.0,pequena
+850-1100m,Três Corações,912.0,837,1243,77921.0,média
+850-1100m,Desterro do Melo,912.0,757,1216,3036.0,pequena
+850-1100m,Cachoeira de Minas,913.0,823,1271,11567.0,pequena
+850-1100m,Machado,914.0,785,1246,41368.0,pequena
+850-1100m,Cruzeiro da Fortaleza,915.0,825,1145,4140.0,pequena
+850-1100m,Monsenhor Paulo,916.0,843,1110,8628.0,pequena
+850-1100m,Carmópolis de Minas,918.0,785,1202,18619.0,pequena
+850-1100m,Bonfim,920.0,787,1134,7016.0,pequena
+850-1100m,Sarzedo,920.0,734,1258,29889.0,pequena
+850-1100m,Itumirim,920.0,804,1093,6237.0,pequena
+850-1100m,São Sebastião do Paraíso,921.0,757,1204,69574.0,média
+850-1100m,Santa Bárbara do Leste,921.0,697,1242,8107.0,pequena
+850-1100m,São Tomás de Aquino,921.0,756,1109,7238.0,pequena
+850-1100m,Varginha,922.0,769,1179,132353.0,grande
+850-1100m,Itaguara,924.0,757,1134,13172.0,pequena
+850-1100m,Setubinha,925.0,650,1175,11837.0,pequena
+850-1100m,Alto Jequitibá,926.0,652,1635,8528.0,pequena
+850-1100m,Raposos,927.0,744,1243,16230.0,pequena
+850-1100m,Pedrinópolis,930.0,770,1042,3650.0,pequena
+850-1100m,Candeias,932.0,767,1145,15108.0,pequena
+850-1100m,Capitólio,932.0,746,1341,8612.0,pequena
+850-1100m,Conceição do Rio Verde,934.0,846,1243,13617.0,pequena
+850-1100m,São Brás do Suaçuí,935.0,854,1016,3712.0,pequena
+850-1100m,Vargem Bonita,935.0,738,1411,2213.0,pequena
+850-1100m,Cabo Verde,935.0,774,1188,14298.0,pequena
+850-1100m,Nazareno,936.0,854,1043,8478.0,pequena
+850-1100m,Santa Rita do Sapucaí,936.0,814,1347,41425.0,pequena
+850-1100m,São Sebastião do Rio Verde,936.0,887,997,2228.0,pequena
+850-1100m,Conceição da Barra de Minas,939.0,865,1037,4053.0,pequena
+850-1100m,Piracema,939.0,784,1226,6570.0,pequena
+850-1100m,Rio Manso,939.0,795,1219,5684.0,pequena
+850-1100m,Pedra do Indaiá,939.0,802,1115,4021.0,pequena
+850-1100m,Nova Ponte,940.0,712,1033,14484.0,pequena
+850-1100m,Bom Sucesso,941.0,805,1121,17858.0,pequena
+850-1100m,Cambuquira,941.0,857,1328,13026.0,pequena
+850-1100m,Conceição dos Ouros,941.0,843,1320,11262.0,pequena
+850-1100m,Ibirité,942.0,805,1288,173873.0,grande
+850-1100m,São Gonçalo do Sapucaí,942.0,806,1443,25274.0,pequena
+850-1100m,Guaxupé,945.0,809,1142,51911.0,média
+850-1100m,Juruaia,946.0,822,1151,10125.0,pequena
+850-1100m,Tapiraí,946.0,669,1263,1922.0,pequena
+850-1100m,Patrocínio,948.0,780,1268,88648.0,média
+850-1100m,Heliodora,950.0,820,1345,6492.0,pequena
+850-1100m,Perdizes,950.0,799,1167,15639.0,pequena
+850-1100m,Orizânia,951.0,762,1261,7831.0,pequena
+850-1100m,São Lourenço,951.0,876,1207,44781.0,pequena
+850-1100m,São João do Manhuaçu,951.0,743,1492,11153.0,pequena
+850-1100m,Fervedouro,954.0,703,1804,10936.0,pequena
+850-1100m,Vargem Grande do Rio Pardo,954.0,810,1128,4989.0,pequena
+850-1100m,Angelândia,955.0,831,1136,8460.0,pequena
+850-1100m,Tiradentes,957.0,893,1203,7640.0,pequena
+850-1100m,Arapuá,958.0,825,1138,2875.0,pequena
+850-1100m,Soledade de Minas,958.0,858,1238,6055.0,pequena
+850-1100m,Montezuma,960.0,796,1158,8041.0,pequena
+850-1100m,Belo Vale,960.0,805,1498,7816.0,pequena
+850-1100m,Caxambu,961.0,860,1179,22231.0,pequena
+850-1100m,Borda da Mata,961.0,843,1422,18682.0,pequena
+850-1100m,Serra do Salitre,963.0,807,1243,11325.0,pequena
+850-1100m,Felício dos Santos,963.0,726,1646,5081.0,pequena
+850-1100m,Botelhos,963.0,856,1197,15324.0,pequena
+850-1100m,Conceição da Aparecida,964.0,775,1161,10302.0,pequena
+850-1100m,Guimarânia,965.0,816,1249,7831.0,pequena
+850-1100m,Ingaí,965.0,856,1236,2764.0,pequena
+850-1100m,Sericita,966.0,699,1687,7406.0,pequena
+850-1100m,Campanha,967.0,842,1457,16431.0,pequena
+850-1100m,São Francisco de Paula,967.0,826,1130,6670.0,pequena
+850-1100m,Couto de Magalhães de Minas,969.0,670,1625,4412.0,pequena
+850-1100m,Santo Antônio do Amparo,969.0,813,1113,18367.0,pequena
+850-1100m,Fortaleza de Minas,970.0,792,1238,4357.0,pequena
+850-1100m,Entre Rios de Minas,971.0,865,1248,15124.0,pequena
+850-1100m,Ibiraci,971.0,634,1271,13305.0,pequena
+850-1100m,Carmo da Cachoeira,975.0,847,1141,12302.0,pequena
+850-1100m,Medeiros,975.0,747,1271,3707.0,pequena
+850-1100m,Serro,976.0,635,1862,21427.0,pequena
+850-1100m,Santo Antônio do Retiro,977.0,786,1594,7290.0,pequena
+850-1100m,Ilicínea,977.0,783,1356,12217.0,pequena
+850-1100m,Romaria,978.0,809,1055,3657.0,pequena
+850-1100m,Jeceaba,979.0,856,1169,5294.0,pequena
+850-1100m,Santa Juliana,979.0,799,1080,12939.0,pequena
+850-1100m,Itutinga,980.0,836,1255,3950.0,pequena
+850-1100m,Senador José Bento,983.0,850,1445,1735.0,pequena
+850-1100m,Conselheiro Lafaiete,984.0,885,1106,125421.0,grande
+850-1100m,Itacambira,986.0,704,1357,5310.0,pequena
+850-1100m,Santa Rosa da Serra,986.0,775,1180,3368.0,pequena
+850-1100m,São Gonçalo do Rio Preto,987.0,721,1652,3189.0,pequena
+850-1100m,Coronel Xavier Chaves,987.0,897,1238,3451.0,pequena
+850-1100m,Espera Feliz,988.0,770,1827,24469.0,pequena
+850-1100m,Itamogi,988.0,807,1181,10535.0,pequena
+850-1100m,Catas Altas,989.0,692,1976,5230.0,pequena
+850-1100m,Jesuânia,989.0,863,1442,4899.0,pequena
+850-1100m,Moeda,990.0,795,1312,4922.0,pequena
+850-1100m,Madre de Deus de Minas,991.0,911,1128,5124.0,pequena
+850-1100m,São Vicente de Minas,991.0,921,1182,7552.0,pequena
+850-1100m,São Gotardo,991.0,759,1206,34425.0,pequena
+850-1100m,Ouro Fino,992.0,831,1446,33390.0,pequena
+850-1100m,Crucilândia,992.0,844,1181,5014.0,pequena
+850-1100m,Sacramento,994.0,517,1354,25630.0,pequena
+850-1100m,Ibiá,994.0,840,1339,24784.0,pequena
+850-1100m,Queluzito,994.0,905,1347,1947.0,pequena
+850-1100m,Barroso,995.0,919,1124,20693.0,pequena
+850-1100m,Congonhas,995.0,855,1496,52827.0,média
+850-1100m,Passa Tempo,995.0,795,1269,8349.0,pequena
+850-1100m,São Bento Abade,995.0,944,1073,5043.0,pequena
+850-1100m,Diamantina,998.0,548,1470,47952.0,pequena
+850-1100m,Lima Duarte,1000.0,694,1712,16829.0,pequena
+850-1100m,Matutina,1001.0,804,1145,3851.0,pequena
+850-1100m,Estiva,1002.0,835,1401,11371.0,pequena
+850-1100m,Santa Bárbara,1004.0,643,1785,30169.0,pequena
+850-1100m,São João del Rei,1004.0,876,1237,89378.0,média
+850-1100m,Itatiaiuçu,1005.0,828,1244,10781.0,pequena
+850-1100m,Muzambinho,1005.0,828,1192,21017.0,pequena
+850-1100m,Caparaó,1011.0,827,1680,5454.0,pequena
+850-1100m,São Tiago,1011.0,867,1201,11017.0,pequena
+850-1100m,Ritápolis,1012.0,881,1185,4891.0,pequena
+850-1100m,Prados,1013.0,902,1298,8919.0,pequena
+850-1100m,Casa Grande,1014.0,925,1327,2308.0,pequena
+850-1100m,Dores de Campos,1014.0,914,1120,9956.0,pequena
+850-1100m,Inconfidentes,1016.0,860,1404,7290.0,pequena
+850-1100m,Bandeira do Sul,1016.0,948,1193,5674.0,pequena
+850-1100m,Rio Paranaíba,1017.0,832,1208,12398.0,pequena
+850-1100m,Camacho,1017.0,866,1179,3109.0,pequena
+850-1100m,Oliveira,1018.0,843,1204,41562.0,pequena
+850-1100m,Poço Fundo,1018.0,809,1339,16775.0,pequena
+850-1100m,Carmo de Minas,1019.0,862,1448,14645.0,pequena
+850-1100m,Luminárias,1020.0,860,1405,5571.0,pequena
+850-1100m,Pedra Bonita,1021.0,762,1658,7051.0,pequena
+850-1100m,Lagoa Dourada,1022.0,919,1204,12938.0,pequena
+850-1100m,Piedade do Rio Grande,1023.0,937,1256,4723.0,pequena
+850-1100m,Bom Jesus da Penha,1024.0,924,1168,4150.0,pequena
+850-1100m,Olaria,1024.0,781,1541,1913.0,pequena
+850-1100m,Piedade dos Gerais,1025.0,906,1156,4927.0,pequena
+850-1100m,Araxá,1027.0,846,1341,102238.0,grande
+850-1100m,Consolação,1028.0,868,1297,1804.0,pequena
+850-1100m,Jacuí,1028.0,870,1209,7783.0,pequena
+850-1100m,Rio Acima,1028.0,760,1488,9924.0,pequena
+850-1100m,Olímpio Noronha,1033.0,881,1500,2722.0,pequena
+850-1100m,Congonhal,1034.0,824,1420,11464.0,pequena
+850-1100m,Nova União,1034.0,786,1546,5779.0,pequena
+850-1100m,Caeté,1043.0,795,1588,43739.0,pequena
+850-1100m,Cristiano Otoni,1043.0,951,1226,5204.0,pequena
+850-1100m,Pouso Alto,1045.0,885,1919,6236.0,pequena
+850-1100m,Luisburgo,1049.0,730,1570,6408.0,pequena
+850-1100m,São Roque de Minas,1049.0,711,1463,7035.0,pequena
+850-1100m,Cambuí,1052.0,846,1510,28669.0,pequena
+850-1100m,Pedralva,1052.0,845,1509,11623.0,pequena
+850-1100m,São João da Mata,1056.0,872,1368,2810.0,pequena
+850-1100m,Lambari,1056.0,860,1414,20671.0,pequena
+850-1100m,Araponga,1056.0,689,1740,8501.0,pequena
+850-1100m,Carrancas,1057.0,909,1533,4096.0,pequena
+850-1100m,Minduri,1057.0,938,1534,3964.0,pequena
+850-1100m,Extrema,1061.0,874,1566,33082.0,pequena
+850-1100m,Cruzília,1062.0,978,1257,15369.0,pequena
+850-1100m,Santana do Riacho,1062.0,674,1570,4258.0,pequena
+850-1100m,Itajubá,1063.0,839,1807,96020.0,média
+850-1100m,Serranos,1065.0,958,1258,2030.0,pequena
+850-1100m,Gouveia,1066.0,554,1426,12048.0,pequena
+850-1100m,Natércia,1068.0,850,1456,4812.0,pequena
+850-1100m,Ibitiúra de Minas,1069.0,916,1552,3520.0,pequena
+850-1100m,Nova Resende,1070.0,878,1200,16429.0,pequena
+850-1100m,Resende Costa,1070.0,915,1247,11478.0,pequena
+850-1100m,São Pedro da União,1071.0,946,1185,4979.0,pequena
+850-1100m,Campos Altos,1074.0,811,1232,15186.0,pequena
+850-1100m,Andrelândia,1077.0,923,1400,12507.0,pequena
+850-1100m,Seritinga,1080.0,966,1287,1865.0,pequena
+850-1100m,Carandaí,1080.0,764,1204,25044.0,pequena
+850-1100m,Campestre,1085.0,867,1420,21392.0,pequena
+850-1100m,Paraisópolis,1089.0,856,1854,20710.0,pequena
+850-1100m,Pratinha,1090.0,906,1267,3515.0,pequena
+850-1100m,Antônio Carlos,1090.0,798,1211,11560.0,pequena
+850-1100m,Santana do Garambéu,1091.0,983,1311,2400.0,pequena
+850-1100m,Desterro de Entre Rios,1096.0,964,1253,7298.0,pequena
+850-1100m,Barbacena,1096.0,750,1214,134924.0,grande
+850-1100m,Ibertioga,1097.0,985,1228,5156.0,pequena
+850-1100m,Andradas,1100.0,803,1499,40092.0,pequena
+1100-1600m,Santa Rita de Ibitipoca,1103.0,832,1645,3595.0,pequena
+1100-1600m,Itabirito,1106.0,826,1537,49768.0,pequena
+1100-1600m,Albertina,1107.0,876,1299,3033.0,pequena
+1100-1600m,Nova Lima,1120.0,738,1476,89900.0,média
+1100-1600m,Ouro Branco,1129.0,922,1528,38249.0,pequena
+1100-1600m,Ouro Preto,1133.0,746,1801,74036.0,média
+1100-1600m,Alfredo Vasconcelos,1135.0,1042,1237,6639.0,pequena
+1100-1600m,Dom Viçoso,1136.0,898,1885,3073.0,pequena
+1100-1600m,Ressaquinha,1137.0,990,1261,4834.0,pequena
+1100-1600m,Arantina,1141.0,1040,1292,2880.0,pequena
+1100-1600m,Tapira,1151.0,936,1341,4542.0,pequena
+1100-1600m,Presidente Kubitschek,1162.0,994,1295,3056.0,pequena
+1100-1600m,Itanhandu,1162.0,893,2418,15105.0,pequena
+1100-1600m,Tocos do Moji,1164.0,959,1486,4124.0,pequena
+1100-1600m,Córrego do Bom Jesus,1169.0,867,1805,3811.0,pequena
+1100-1600m,Bom Jardim de Minas,1171.0,875,1505,6653.0,pequena
+1100-1600m,Congonhas do Norte,1173.0,862,1466,5118.0,pequena
+1100-1600m,Espírito Santo do Dourado,1177.0,828,1402,4670.0,pequena
+1100-1600m,Liberdade,1180.0,990,1543,5346.0,pequena
+1100-1600m,Itapeva,1187.0,925,1523,9436.0,pequena
+1100-1600m,Caldas,1188.0,973,1716,14396.0,pequena
+1100-1600m,Datas,1191.0,923,1450,5441.0,pequena
+1100-1600m,Toledo,1202.0,993,1489,6153.0,pequena
+1100-1600m,Baependi,1202.0,858,2326,19186.0,pequena
+1100-1600m,Bueno Brandão,1212.0,832,1488,11223.0,pequena
+1100-1600m,Wenceslau Braz,1216.0,884,1768,2617.0,pequena
+1100-1600m,Santa Rita de Caldas,1218.0,1064,1693,9218.0,pequena
+1100-1600m,Piranguçu,1225.0,854,1746,5475.0,pequena
+1100-1600m,Cristina,1231.0,894,1874,10484.0,pequena
+1100-1600m,Poços de Caldas,1231.0,880,1558,163677.0,grande
+1100-1600m,Virgínia,1238.0,892,1729,8867.0,pequena
+1100-1600m,Conceição das Pedras,1241.0,963,1675,2849.0,pequena
+1100-1600m,Aiuruoca,1251.0,983,2139,6240.0,pequena
+1100-1600m,Carvalhos,1262.0,1001,1851,4633.0,pequena
+1100-1600m,Ipuiúna,1264.0,1097,1533,10038.0,pequena
+1100-1600m,Maria da Fé,1288.0,853,1796,14518.0,pequena
+1100-1600m,Gonçalves,1340.0,873,1909,4391.0,pequena
+1100-1600m,Bom Repouso,1365.0,1107,1624,10767.0,pequena
+1100-1600m,Munhoz,1365.0,967,1517,6304.0,pequena
+1100-1600m,Camanducaia,1366.0,923,1918,21955.0,pequena
+1100-1600m,Bocaina de Minas,1368.0,975,2439,5174.0,pequena
+1100-1600m,Alto Caparaó,1373.0,861,2599,5702.0,pequena
+1100-1600m,Sapucaí-Mirim,1401.0,899,1867,6739.0,pequena
+1100-1600m,Passa Quatro,1402.0,914,2567,16353.0,pequena
+1100-1600m,Senador Amaral,1465.0,1197,1599,5419.0,pequena
+1100-1600m,Delfim Moreira,1483.0,924,1966,8201.0,pequena
+1100-1600m,Alagoa,1507.0,1125,2243,2760.0,pequena
+1100-1600m,Marmelópolis,1544.0,1230,2219,2938.0,pequena
+1100-1600m,Itamonte,1570.0,903,2545,15136.0,pequena
