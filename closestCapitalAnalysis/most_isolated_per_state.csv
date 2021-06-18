@@ -1,0 +1,262 @@
+NAME,DISTANCE,CLOSEST_CAPITAL,STATE
+Canindé de São Francisco/SE,1.457,Aracaju/SE,SE
+Poço Redondo/SE,1.264,Aracaju/SE,SE
+Poço Verde/SE,1.129,Aracaju/SE,SE
+Porto da Folha/SE,1.015,Aracaju/SE,SE
+Monte Alegre de Sergipe/SE,1.011,Aracaju/SE,SE
+Tobias Barreto/SE,0.965,Aracaju/SE,SE
+Gararu/SE,0.943,Aracaju/SE,SE
+Tomar do Geru/SE,0.897,Aracaju/SE,SE
+Cristinápolis/SE,0.886,Aracaju/SE,SE
+Carira/SE,0.836,Aracaju/SE,SE
+Novo Progresso/PA,6.158,Manaus/AM,PA
+Rurópolis/PA,5.211,Manaus/AM,PA
+São Félix do Xingu/PA,5.081,Palmas/TO,PA
+Placas/PA,5.021,Macapá/AP,PA
+Aveiro/PA,4.72,Manaus/AM,PA
+Belterra/PA,4.705,Macapá/AP,PA
+Óbidos/PA,4.66,Manaus/AM,PA
+Uruará/PA,4.61,Macapá/AP,PA
+Curuá/PA,4.486,Macapá/AP,PA
+Tucumã/PA,4.437,Palmas/TO,PA
+Mamonas/MG,4.872,Belo Horizonte/MG,MG
+Gameleiras/MG,4.808,Belo Horizonte/MG,MG
+Monte Azul/MG,4.786,Belo Horizonte/MG,MG
+Espinosa/MG,4.731,Salvador/BA,MG
+Santo Antônio do Retiro/MG,4.672,Belo Horizonte/MG,MG
+Catuti/MG,4.568,Belo Horizonte/MG,MG
+Montezuma/MG,4.553,Salvador/BA,MG
+Mato Verde/MG,4.552,Belo Horizonte/MG,MG
+Vargem Grande do Rio Pardo/MG,4.509,Salvador/BA,MG
+Indaiabira/MG,4.466,Salvador/BA,MG
+Caroebe/RR,2.169,Boa Vista/RR,RR
+São João da Baliza/RR,2.018,Boa Vista/RR,RR
+Rorainópolis/RR,1.891,Boa Vista/RR,RR
+São Luiz/RR,1.886,Boa Vista/RR,RR
+Uiramutã/RR,1.846,Boa Vista/RR,RR
+Pacaraima/RR,1.679,Boa Vista/RR,RR
+Normandia/RR,1.493,Boa Vista/RR,RR
+Caracaraí/RR,1.102,Boa Vista/RR,RR
+Amajari/RR,1.086,Boa Vista/RR,RR
+Bonfim/RR,0.999,Boa Vista/RR,RR
+Brasília/DF,0.0,Brasília/DF,DF
+Aparecida do Taboado/MS,3.57,Campo Grande/MS,MS
+Sete Quedas/MS,3.549,Campo Grande/MS,MS
+Paranaíba/MS,3.539,Campo Grande/MS,MS
+Paranhos/MS,3.538,Campo Grande/MS,MS
+Mundo Novo/MS,3.515,Campo Grande/MS,MS
+Porto Murtinho/MS,3.472,Campo Grande/MS,MS
+Japorã/MS,3.456,Campo Grande/MS,MS
+Eldorado/MS,3.364,Campo Grande/MS,MS
+Corumbá/MS,3.331,Campo Grande/MS,MS
+Ladário/MS,3.287,Campo Grande/MS,MS
+Apiacás/MT,6.201,Cuiabá/MT,MT
+Nova Bandeirantes/MT,6.045,Cuiabá/MT,MT
+Paranaíta/MT,5.943,Cuiabá/MT,MT
+Guarantã do Norte/MT,5.928,Cuiabá/MT,MT
+Nova Monte Verde/MT,5.795,Cuiabá/MT,MT
+Juruena/MT,5.742,Cuiabá/MT,MT
+Alta Floresta/MT,5.72,Cuiabá/MT,MT
+Novo Mundo/MT,5.717,Cuiabá/MT,MT
+Matupá/MT,5.66,Cuiabá/MT,MT
+Carlinda/MT,5.644,Cuiabá/MT,MT
+Foz do Iguaçu/PR,5.105,Campo Grande/MS,PR
+Santa Terezinha de Itaipu/PR,5.01,Campo Grande/MS,PR
+São Miguel do Iguaçu/PR,4.922,Campo Grande/MS,PR
+Medianeira/PR,4.823,Curitiba/PR,PR
+Serranópolis do Iguaçu/PR,4.779,Curitiba/PR,PR
+Matelândia/PR,4.727,Curitiba/PR,PR
+Ramilândia/PR,4.718,Campo Grande/MS,PR
+Itaipulândia/PR,4.707,Campo Grande/MS,PR
+Missal/PR,4.666,Campo Grande/MS,PR
+Vera Cruz do Oeste/PR,4.619,Curitiba/PR,PR
+Dionísio Cerqueira/SC,4.445,Curitiba/PR,SC
+Guarujá do Sul/SC,4.311,Porto Alegre/RS,SC
+Princesa/SC,4.301,Porto Alegre/RS,SC
+São José do Cedro/SC,4.234,Porto Alegre/RS,SC
+Paraíso/SC,4.202,Porto Alegre/RS,SC
+Guaraciaba/SC,4.126,Porto Alegre/RS,SC
+Palma Sola/SC,4.109,Curitiba/PR,SC
+Anchieta/SC,4.081,Porto Alegre/RS,SC
+Bandeirante/SC,4.056,Porto Alegre/RS,SC
+Barra Bonita/SC,4.038,Porto Alegre/RS,SC
+Jardim/CE,3.938,Fortaleza/CE,CE
+Porteiras/CE,3.861,Fortaleza/CE,CE
+Brejo Santo/CE,3.802,Fortaleza/CE,CE
+Jati/CE,3.766,Aracaju/SE,CE
+Mauriti/CE,3.679,Fortaleza/CE,CE
+Abaiara/CE,3.677,Fortaleza/CE,CE
+Penaforte/CE,3.677,Aracaju/SE,CE
+Santana do Cariri/CE,3.671,Fortaleza/CE,CE
+Barbalha/CE,3.667,Fortaleza/CE,CE
+Crato/CE,3.622,Fortaleza/CE,CE
+Portelândia/GO,3.491,Goiânia/GO,GO
+Mineiros/GO,3.415,Goiânia/GO,GO
+Santa Rita do Araguaia/GO,3.37,Cuiabá/MT,GO
+São Miguel do Araguaia/GO,3.356,Brasília/DF,GO
+Baliza/GO,3.326,Goiânia/GO,GO
+Itajá/GO,3.309,Goiânia/GO,GO
+Lagoa Santa/GO,3.292,Goiânia/GO,GO
+Serranópolis/GO,3.159,Goiânia/GO,GO
+Aragarças/GO,3.097,Goiânia/GO,GO
+Aporé/GO,3.096,Campo Grande/MS,GO
+Bonito de Santa Fé/PB,3.596,Fortaleza/CE,PB
+Monte Horebe/PB,3.498,Fortaleza/CE,PB
+Santa Inês/PB,3.483,Maceió/AL,PB
+Conceição/PB,3.482,Maceió/AL,PB
+Serra Grande/PB,3.465,Natal/RN,PB
+Ibiara/PB,3.437,Maceió/AL,PB
+São José de Caiana/PB,3.417,Natal/RN,PB
+São José de Piranhas/PB,3.404,Fortaleza/CE,PB
+Diamante/PB,3.377,Maceió/AL,PB
+Boa Ventura/PB,3.351,Maceió/AL,PB
+Oiapoque/AP,3.881,Macapá/AP,AP
+Calçoene/AP,2.462,Macapá/AP,AP
+Amapá/AP,2.032,Macapá/AP,AP
+Pracuúba/AP,1.726,Macapá/AP,AP
+Laranjal do Jari/AP,1.697,Macapá/AP,AP
+Vitória do Jari/AP,1.673,Macapá/AP,AP
+Tartarugalzinho/AP,1.475,Macapá/AP,AP
+Serra do Navio/AP,1.269,Macapá/AP,AP
+Pedra Branca do Amapari/AP,1.148,Macapá/AP,AP
+Cutias/AP,0.983,Macapá/AP,AP
+Mata Grande/AL,1.911,Aracaju/SE,AL
+Pariconha/AL,1.902,Aracaju/SE,AL
+Água Branca/AL,1.863,Aracaju/SE,AL
+Canapi/AL,1.862,Aracaju/SE,AL
+Inhapi/AL,1.824,Aracaju/SE,AL
+Delmiro Gouveia/AL,1.783,Aracaju/SE,AL
+Ouro Branco/AL,1.697,Maceió/AL,AL
+Maravilha/AL,1.671,Maceió/AL,AL
+Senador Rui Palmeira/AL,1.617,Aracaju/SE,AL
+Olho d'Água do Casado/AL,1.602,Aracaju/SE,AL
+Tonantins/AM,7.062,Porto Velho/RO,AM
+São Gabriel da Cachoeira/AM,7.062,Boa Vista/RR,AM
+Santo Antônio do Içá/AM,6.874,Rio Branco/AC,AM
+Japurá/AM,6.697,Manaus/AM,AM
+São Paulo de Olivença/AM,6.682,Rio Branco/AC,AM
+Jutaí/AM,6.662,Porto Velho/RO,AM
+Amaturá/AM,6.622,Rio Branco/AC,AM
+Tabatinga/AM,6.105,Rio Branco/AC,AM
+Fonte Boa/AM,6.095,Manaus/AM,AM
+Atalaia do Norte/AM,6.088,Rio Branco/AC,AM
+Paraná/RN,2.779,Fortaleza/CE,RN
+Tenente Ananias/RN,2.772,Fortaleza/CE,RN
+Alexandria/RN,2.747,Fortaleza/CE,RN
+Luís Gomes/RN,2.701,Fortaleza/CE,RN
+Major Sales/RN,2.698,Fortaleza/CE,RN
+João Dias/RN,2.631,Natal/RN,RN
+José da Penha/RN,2.613,Fortaleza/CE,RN
+Venha-Ver/RN,2.61,Fortaleza/CE,RN
+Marcelino Vieira/RN,2.604,Fortaleza/CE,RN
+Pilões/RN,2.601,Fortaleza/CE,RN
+Itaguatins/TO,4.432,Belém/PA,TO
+Maurilândia do Tocantins/TO,4.294,Palmas/TO,TO
+São Bento do Tocantins/TO,4.261,Palmas/TO,TO
+Sítio Novo do Tocantins/TO,4.235,Belém/PA,TO
+Axixá do Tocantins/TO,4.225,Belém/PA,TO
+Araguatins/TO,4.212,Belém/PA,TO
+São Miguel do Tocantins/TO,4.203,Belém/PA,TO
+Cachoeirinha/TO,4.066,Palmas/TO,TO
+Augustinópolis/TO,4.057,Belém/PA,TO
+Luzinópolis/TO,4.013,Palmas/TO,TO
+Barra do Quaraí/RS,6.327,Porto Alegre/RS,RS
+Uruguaiana/RS,5.865,Porto Alegre/RS,RS
+Itaqui/RS,5.4,Porto Alegre/RS,RS
+Quaraí/RS,5.233,Porto Alegre/RS,RS
+São Borja/RS,4.967,Porto Alegre/RS,RS
+Maçambara/RS,4.916,Porto Alegre/RS,RS
+Garruchos/RS,4.781,Porto Alegre/RS,RS
+Alegrete/RS,4.569,Porto Alegre/RS,RS
+Porto Xavier/RS,4.449,Porto Alegre/RS,RS
+São Nicolau/RS,4.441,Porto Alegre/RS,RS
+Pimenteiras do Oeste/RO,5.382,Cuiabá/MT,RO
+Cerejeiras/RO,5.294,Cuiabá/MT,RO
+Corumbiara/RO,5.171,Porto Velho/RO,RO
+Colorado do Oeste/RO,5.09,Cuiabá/MT,RO
+Vilhena/RO,4.954,Cuiabá/MT,RO
+Cabixi/RO,4.921,Cuiabá/MT,RO
+Chupinguaia/RO,4.836,Porto Velho/RO,RO
+Parecis/RO,4.116,Porto Velho/RO,RO
+Primavera de Rondônia/RO,4.009,Porto Velho/RO,RO
+Espigão D'Oeste/RO,3.999,Porto Velho/RO,RO
+Granito/PE,4.084,Aracaju/SE,PE
+Moreilândia/PE,4.042,Fortaleza/CE,PE
+Santa Cruz/PE,4.001,Teresina/PI,PE
+Bodocó/PE,3.926,Teresina/PI,PE
+Dormentes/PE,3.924,Teresina/PI,PE
+Exu/PE,3.917,Teresina/PI,PE
+Ouricuri/PE,3.899,Teresina/PI,PE
+Afrânio/PE,3.869,Teresina/PI,PE
+Cedro/PE,3.856,Aracaju/SE,PE
+Parnamirim/PE,3.773,Aracaju/SE,PE
+Mâncio Lima/AC,5.607,Rio Branco/AC,AC
+Cruzeiro do Sul/AC,5.396,Rio Branco/AC,AC
+Rodrigues Alves/AC,5.328,Rio Branco/AC,AC
+Porto Walter/AC,5.221,Rio Branco/AC,AC
+Marechal Thaumaturgo/AC,5.088,Rio Branco/AC,AC
+Jordão/AC,4.11,Rio Branco/AC,AC
+Tarauacá/AC,3.468,Rio Branco/AC,AC
+Feijó/AC,3.123,Rio Branco/AC,AC
+Santa Rosa do Purus/AC,2.737,Rio Branco/AC,AC
+Assis Brasil/AC,2.005,Rio Branco/AC,AC
+Laje do Muriaé/RJ,1.993,Vitória/ES,RJ
+São Fidélis/RJ,1.927,Rio de Janeiro/RJ,RJ
+São José de Ubá/RJ,1.912,Vitória/ES,RJ
+Quissamã/RJ,1.91,Rio de Janeiro/RJ,RJ
+Cambuci/RJ,1.856,Rio de Janeiro/RJ,RJ
+Porciúncula/RJ,1.821,Vitória/ES,RJ
+Miracema/RJ,1.801,Rio de Janeiro/RJ,RJ
+Natividade/RJ,1.788,Vitória/ES,RJ
+Itaperuna/RJ,1.785,Vitória/ES,RJ
+Italva/RJ,1.745,Vitória/ES,RJ
+Muquém de São Francisco/BA,5.119,Salvador/BA,BA
+Barra/BA,4.999,Salvador/BA,BA
+Serra Dourada/BA,4.996,Brasília/DF,BA
+Tabocas do Brejo Velho/BA,4.984,Brasília/DF,BA
+Morpará/BA,4.975,Salvador/BA,BA
+Sítio do Mato/BA,4.955,Salvador/BA,BA
+Brejolândia/BA,4.943,Palmas/TO,BA
+Pilão Arcado/BA,4.923,Teresina/PI,BA
+Bom Jesus da Lapa/BA,4.915,Salvador/BA,BA
+Serra do Ramalho/BA,4.862,Brasília/DF,BA
+Governador Edison Lobão/MA,4.44,São Luís/MA,MA
+Ribamar Fiquene/MA,4.342,Palmas/TO,MA
+Montes Altos/MA,4.305,São Luís/MA,MA
+Davinópolis/MA,4.241,Belém/PA,MA
+Imperatriz/MA,4.198,Belém/PA,MA
+Lajeado Novo/MA,4.184,Palmas/TO,MA
+Senador La Rocque/MA,4.167,Belém/PA,MA
+João Lisboa/MA,4.142,Belém/PA,MA
+Campestre do Maranhão/MA,4.111,Palmas/TO,MA
+Buritirana/MA,4.093,São Luís/MA,MA
+Lourdes/SP,4.396,Goiânia/GO,SP
+Turiúba/SP,4.339,Goiânia/GO,SP
+Buritama/SP,4.3,São Paulo/SP,SP
+Nova Luzitânia/SP,4.297,Goiânia/GO,SP
+Araçatuba/SP,4.282,Campo Grande/MS,SP
+Birigui/SP,4.274,Curitiba/PR,SP
+Brejo Alegre/SP,4.274,São Paulo/SP,SP
+Monções/SP,4.254,Goiânia/GO,SP
+Zacarias/SP,4.23,São Paulo/SP,SP
+Nova Castilho/SP,4.227,Goiânia/GO,SP
+Morro Cabeça no Tempo/PI,4.454,Palmas/TO,PI
+Guaribas/PI,4.399,Teresina/PI,PI
+Fartura do Piauí/PI,4.395,Teresina/PI,PI
+Avelino Lopes/PI,4.384,Palmas/TO,PI
+Dirceu Arcoverde/PI,4.265,Teresina/PI,PI
+Caracol/PI,4.223,Teresina/PI,PI
+Jurema/PI,4.155,Teresina/PI,PI
+Várzea Branca/PI,4.153,Teresina/PI,PI
+Bom Jesus/PI,4.122,Palmas/TO,PI
+Anísio de Abreu/PI,4.107,Teresina/PI,PI
+Pedro Canário/ES,2.297,Vitória/ES,ES
+Mucurici/ES,2.233,Vitória/ES,ES
+Ponto Belo/ES,2.204,Vitória/ES,ES
+Montanha/ES,2.192,Vitória/ES,ES
+Ecoporanga/ES,2.007,Vitória/ES,ES
+Pinheiros/ES,1.916,Vitória/ES,ES
+Água Doce do Norte/ES,1.884,Vitória/ES,ES
+Conceição da Barra/ES,1.829,Vitória/ES,ES
+Boa Esperança/ES,1.779,Vitória/ES,ES
+Vila Pavão/ES,1.726,Vitória/ES,ES

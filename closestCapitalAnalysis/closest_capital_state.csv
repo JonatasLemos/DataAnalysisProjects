@@ -1,0 +1,84 @@
+STATE,CLOSEST_CAPITAL,NUMBER_OF_CITIES
+AC,Rio Branco/AC,22
+AL,Maceió/AL,73
+AL,Aracaju/SE,29
+AM,Manaus/AM,39
+AM,Rio Branco/AC,13
+AM,Porto Velho/RO,8
+AM,Boa Vista/RR,2
+AP,Macapá/AP,16
+BA,Salvador/BA,325
+BA,Aracaju/SE,45
+BA,Palmas/TO,15
+BA,Brasília/DF,15
+BA,Vitória/ES,14
+BA,Teresina/PI,3
+CE,Fortaleza/CE,156
+CE,Teresina/PI,26
+CE,Aracaju/SE,2
+DF,Brasília/DF,1
+ES,Vitória/ES,78
+GO,Goiânia/GO,179
+GO,Brasília/DF,64
+GO,Campo Grande/MS,2
+GO,Cuiabá/MT,1
+MA,São Luís/MA,118
+MA,Teresina/PI,75
+MA,Palmas/TO,14
+MA,Belém/PA,10
+MG,Belo Horizonte/MG,460
+MG,São Paulo/SP,101
+MG,Vitória/ES,99
+MG,Rio de Janeiro/RJ,83
+MG,Goiânia/GO,46
+MG,Brasília/DF,45
+MG,Salvador/BA,19
+MS,Campo Grande/MS,76
+MS,Cuiabá/MT,1
+MT,Cuiabá/MT,108
+MT,Palmas/TO,16
+MT,Goiânia/GO,10
+MT,Porto Velho/RO,4
+MT,Campo Grande/MS,1
+PA,Belém/PA,89
+PA,Macapá/AP,21
+PA,Palmas/TO,21
+PA,Manaus/AM,11
+PA,São Luís/MA,1
+PB,João Pessoa/PB,119
+PB,Natal/RN,48
+PB,Fortaleza/CE,23
+PB,Recife/PE,17
+PB,Maceió/AL,16
+PE,Recife/PE,81
+PE,Maceió/AL,60
+PE,Aracaju/SE,22
+PE,João Pessoa/PB,10
+PE,Teresina/PI,10
+PE,Fortaleza/CE,1
+PI,Teresina/PI,205
+PI,Palmas/TO,17
+PR,Curitiba/PR,306
+PR,Campo Grande/MS,93
+RJ,Rio de Janeiro/RJ,80
+RJ,Vitória/ES,12
+RN,Natal/RN,122
+RN,Fortaleza/CE,44
+RN,João Pessoa/PB,1
+RO,Porto Velho/RO,47
+RO,Cuiabá/MT,5
+RR,Boa Vista/RR,15
+RS,Porto Alegre/RS,497
+SC,Florianópolis/SC,136
+SC,Porto Alegre/RS,88
+SC,Curitiba/PR,69
+SE,Aracaju/SE,75
+SP,São Paulo/SP,385
+SP,Curitiba/PR,114
+SP,Campo Grande/MS,75
+SP,Goiânia/GO,61
+SP,Rio de Janeiro/RJ,9
+SP,Belo Horizonte/MG,1
+TO,Palmas/TO,124
+TO,Belém/PA,12
+TO,Brasília/DF,3
